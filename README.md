@@ -1,6 +1,6 @@
 ### Install
 
-This project requires Python and the following Python libraries installed:
+This project requires Python and the following Python libraries installed:  
 [NumPy](http://www.numpy.org/)、[Pandas](http://pandas.pydata.org/)、[matplotlib](https://matplotlib.org/)、[scikit-learn](http://scikit-learn.org/stable/)、[LightGBM](https://github.com/Microsoft/LightGBM)、[Kaggle API](https://github.com/Kaggle/kaggle-api)
 
 ### Run
